@@ -20,4 +20,4 @@ Contiene los entregables correspondientes al segundo hito del proyecto.
 Semana 10 — 2026
 
 ## Versión actual
-v2.0
+v1.6
