@@ -1,7 +1,7 @@
 # ISW1-Botilleria-El-After
 Repositorio correspondiente al proyecto del curso Ingeniería de Software I de la Universidad Finis Terrae.
 
-**Grupo 05 — Kakast**
+**Grupo 05 — Los Pokemones**
 
 ## Proyecto
 Sistema de Gestión de Ventas e Inventario para Botillería El After.
